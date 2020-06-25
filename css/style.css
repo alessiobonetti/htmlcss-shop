@@ -5,9 +5,10 @@
 }
 
 #container {
-  height: 1800px;
-  width: 1800px;
+  height: 950px;
+  width: 950px;
   border: 2px solid #000;
+  margin: 5px;
 }
 
 .box {
