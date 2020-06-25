@@ -19,8 +19,9 @@
 
 }
 
-.one {
+/* .one {
   background-color: red;
+
 }
 
 .two {
@@ -29,7 +30,7 @@
 
 .three {
   background-color: orange;
-}
+} */
 
 .listview {
   list-style: none;
@@ -38,7 +39,20 @@
 .heart {
   position: absolute;
   bottom: 5%;
-  left: 50%
+  left: 50%;
+  display: none;
+}
 
+.scount_30{
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: green;
+}
 
+.scount_5{
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: red;
 }
